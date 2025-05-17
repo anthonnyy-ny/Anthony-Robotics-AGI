@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview 150 note.md",
+                "file": "top interview 150 note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interview 150 note"
+              "title": "top interview 150 note"
             }
           }
         ]
@@ -165,11 +165,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "71e1f1b839941abb",
   "lastOpenFiles": [
-    "interview 150 note.md"
+    "top interview 150 note.md"
   ]
 }
