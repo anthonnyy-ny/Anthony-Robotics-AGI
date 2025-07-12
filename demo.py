@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # LeetCode 88: Merge Sorted Array - ×î¾«¼ò°æ±¾
 
 def merge(nums1, m, nums2, n):
