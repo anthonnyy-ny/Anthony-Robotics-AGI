@@ -6,7 +6,7 @@ class Solution:
         nums1 has enough space (length >= m + n) to hold additional elements from nums2.
         """
         # Start from the end of nums1 (position m + n - 1)
-        last = m + n - 1
+        last = m + n - 1:
         i = m - 1  # Last element in nums1
         j = n - 1  # Last element in nums2
         
