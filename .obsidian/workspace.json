@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "top interview 150 note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "top interview 150 note"
+              "title": "README"
             }
           }
         ]
@@ -171,11 +171,12 @@
   },
   "active": "71e1f1b839941abb",
   "lastOpenFiles": [
+    "top interview 150 note.md",
+    "01.top interview 150 note.md",
     "02.test.py",
     "01.demo.py",
     "test.py",
     "demo.py",
-    "README.md",
-    "top interview 150 note.md"
+    "README.md"
   ]
 }
