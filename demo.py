@@ -1,13 +1,5 @@
 
-print("Hello, World!")
-print("Hello, World!")
-print("Hello, World!")
 
-
-print("Hello, World!")
-print("Hello, World!")
-print("Hello, World!")
-print("Hello, World!")
 
 # For loop examples
 print("\n=== For Loop Examples ===")
