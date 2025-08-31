@@ -1,2 +1,2 @@
-word1="abc"
-word2="pqr"
+w1="abc"
+w2="pqr"
