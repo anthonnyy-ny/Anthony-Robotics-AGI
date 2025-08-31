@@ -1,1 +1,1 @@
-words=
+word1="abc"
