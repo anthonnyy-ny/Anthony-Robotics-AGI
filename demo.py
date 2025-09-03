@@ -17,4 +17,5 @@ class scmp:
                 print("string: "+s2+s1)
         print("end")
 
-if __name__
+if __name__ =="__main__":
+    
