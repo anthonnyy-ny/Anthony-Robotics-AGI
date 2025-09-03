@@ -19,4 +19,4 @@ class scmp:
 
 if __name__ =="__main__":
     comparer=scmp()
-    
+    comparer.run()
