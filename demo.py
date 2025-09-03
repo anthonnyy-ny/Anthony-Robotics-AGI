@@ -1,4 +1,5 @@
-class s
+class scmp:
+    def __
 while True:
     s1=input("s1: ")
     if s1=="0":
