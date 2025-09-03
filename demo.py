@@ -5,4 +5,4 @@ while True:
     s2=input("s2: ")
     if s2=="0":
         break
-    
+    print("")
