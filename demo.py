@@ -6,3 +6,4 @@ while True:
     if s2=="0":
         break
     print("string: ",s1,s2)
+print("end")
