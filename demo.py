@@ -1,2 +1,2 @@
 while True:
-    s1
+    s1=input("")
