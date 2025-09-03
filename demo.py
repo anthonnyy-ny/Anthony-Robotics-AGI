@@ -3,4 +3,6 @@ while True:
     if s1=="0":
         break
     s2=input("s2: ")
+    if s2=="0":
+        break
     
