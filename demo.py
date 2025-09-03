@@ -6,7 +6,8 @@ while True:
     if s2=="0":
         break
     #print("string: "+s1+s2)
-    if len(s1):
+    if len(s1)>=len(s2):
         print("string: "+s1+s2)
-    if len(s2)
+    if len(s2)>=len(s1):
+        print()
 print("end")
