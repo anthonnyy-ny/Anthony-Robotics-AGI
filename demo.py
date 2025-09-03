@@ -13,7 +13,7 @@ class scmp:
             #print("string: "+s1+s2)
             if len(s1)>=len(s2):
                 print("string: "+s1+s2)
-            if len(s2)>=len(s1):
+            elif len(s2)>=len(s1):
                 print("string: "+s2+s1)
         print("end")
 
