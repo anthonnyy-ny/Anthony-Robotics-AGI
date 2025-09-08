@@ -1,5 +1,7 @@
 arr=[]
 for i in 5:
-    print(i,end=" ")
+    input()
+
+for i
 
 
