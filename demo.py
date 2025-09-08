@@ -1,6 +1,6 @@
 arr=[]
 for i in range(0,5):
-    input()
+    input(arr[i])
 
 for i in 
 
