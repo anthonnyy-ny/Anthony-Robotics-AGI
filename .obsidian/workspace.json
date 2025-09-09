@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/python编程从入门到实践第2版.pdf"
+                "file": "books/Python编程：从入门到实践.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "python编程从入门到实践第2版"
+              "title": "Python编程：从入门到实践"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "767bf48140580bc2",
@@ -170,6 +171,7 @@
   },
   "active": "237ef90f543f4da2",
   "lastOpenFiles": [
+    "books/python编程从入门到实践第2版.pdf",
     "01.leetcode 75 note.md",
     "00.awesome tips.md",
     "books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf",
