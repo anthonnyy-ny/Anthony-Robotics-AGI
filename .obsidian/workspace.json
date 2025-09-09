@@ -11,14 +11,12 @@
             "id": "237ef90f543f4da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01.leetcode 75 note.md",
-                "mode": "source",
-                "source": false
+                "file": "books/python编程从入门到实践第2版.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01.leetcode 75 note"
+              "icon": "lucide-file-text",
+              "title": "python编程从入门到实践第2版"
             }
           }
         ]
@@ -172,6 +170,7 @@
   },
   "active": "237ef90f543f4da2",
   "lastOpenFiles": [
+    "01.leetcode 75 note.md",
     "00.awesome tips.md",
     "books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf",
     "documentary/python crash course/pg1.jpg",
@@ -193,7 +192,6 @@
     "documentary/python crash course/pg3.jpg",
     "documentary/python crash course/pg26.jpg",
     "documentary/python crash course/pg25.jpg",
-    "01.leetcode 75 note.md",
     "README.md",
     "02.top interview 150 note.md",
     "03.top 100 liked note.md",
