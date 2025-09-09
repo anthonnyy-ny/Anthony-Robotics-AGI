@@ -1,6 +1,6 @@
 x=1
 y="hello"
 
-print(f"{x}puki{y}")
+print(f"{x} puki dad {y}")
 
 
