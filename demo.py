@@ -1,6 +1,4 @@
 x=1
-y="hello"
-
-print(f"{x} puki dad {y}")
-
-
+y=2
+z="world"
+print(f"hello {z}")
