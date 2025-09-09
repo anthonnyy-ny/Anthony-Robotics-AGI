@@ -33,8 +33,7 @@
               "title": "python crash course note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14472f579d5f445d",
+  "active": "35624d372d840afe",
   "lastOpenFiles": [
-    "books/python编程从入门到实践第2版.pdf",
     "python_crash_course/python crash course note.md",
+    "books/python编程从入门到实践第2版.pdf",
     "python_crash_course/chp12",
     "00.awesome tips.md",
     "README.md",
