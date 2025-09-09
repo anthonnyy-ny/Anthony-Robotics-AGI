@@ -2,5 +2,3 @@ Leetcode
 
 
 
-#### shortkey
----
