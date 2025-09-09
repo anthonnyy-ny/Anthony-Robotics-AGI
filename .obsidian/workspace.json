@@ -11,14 +11,12 @@
             "id": "237ef90f543f4da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "00.awesome tips.md",
-                "mode": "source",
-                "source": false
+                "file": "documentary/python crash course/pg1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "00.awesome tips"
+              "icon": "lucide-image",
+              "title": "pg1"
             }
           }
         ]
@@ -172,6 +170,7 @@
   },
   "active": "237ef90f543f4da2",
   "lastOpenFiles": [
+    "00.awesome tips.md",
     "python_crash_course/chp9/p9_12/__pycache__/user.cpython-310.pyc",
     "python_crash_course/chp9/p9_12/__pycache__/admin_privileges.cpython-310.pyc",
     "python_crash_course/chp9/p9_11/__pycache__/admin.cpython-310.pyc",
@@ -182,7 +181,6 @@
     "python_crash_course/chp9/p9_12/user.py",
     "python_crash_course/chp9/p9_12/p9_12.py",
     "python_crash_course/chp9/p9_11/__pycache__",
-    "python_crash_course/chp9/p9_12/admin_privileges.py",
     "documentary/python crash course/pg9.jpg",
     "documentary/python crash course/pg8.jpg",
     "documentary/python crash course/pg7.jpg",
@@ -194,7 +192,6 @@
     "documentary/python crash course/pg25.jpg",
     "documentary/python crash course/pg24.jpg",
     "01.leetcode 75 note.md",
-    "00.awesome tips.md",
     "README.md",
     "02.top interview 150 note.md",
     "03.top 100 liked note.md",
