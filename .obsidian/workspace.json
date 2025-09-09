@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Python编程：从入门到实践.pdf"
+                "file": "books/python编程从入门到实践第2版.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Python编程：从入门到实践"
+              "title": "python编程从入门到实践第2版"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "237ef90f543f4da2",
   "lastOpenFiles": [
+    "books/Python编程：从入门到实践.pdf",
     "books/python编程从入门到实践第2版.pdf",
     "01.leetcode 75 note.md",
     "00.awesome tips.md",
@@ -183,7 +184,6 @@
     "python_crash_course/chp9/__pycache__/p9_14.cpython-310.pyc",
     "python_crash_course/chp9/p9_12/__pycache__",
     "python_crash_course/chp9/p9_12/user.py",
-    "python_crash_course/chp9/p9_12/p9_12.py",
     "documentary/python crash course/pg9.jpg",
     "documentary/python crash course/pg8.jpg",
     "documentary/python crash course/pg7.jpg",
