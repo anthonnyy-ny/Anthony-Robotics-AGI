@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee94fb993cb014bf",
+        "id": "84792ba41bf68417",
         "type": "tabs",
         "children": [
           {
-            "id": "237ef90f543f4da2",
+            "id": "35624d372d840afe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/python编程从入门到实践第2版.pdf"
+                "file": "python_crash_course/pcc_note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "python编程从入门到实践第2版"
+              "icon": "lucide-file",
+              "title": "pcc_note"
             }
           }
         ]
@@ -168,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237ef90f543f4da2",
+  "active": "35624d372d840afe",
   "lastOpenFiles": [
-    "books/Python编程：从入门到实践.pdf",
     "books/python编程从入门到实践第2版.pdf",
+    "python_crash_course/pcc_note.md",
+    "books/Python编程：从入门到实践.pdf",
     "01.leetcode 75 note.md",
     "00.awesome tips.md",
     "books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf",
@@ -183,7 +186,6 @@
     "python_crash_course/chp9/__pycache__/p9_6.cpython-310.pyc",
     "python_crash_course/chp9/__pycache__/p9_14.cpython-310.pyc",
     "python_crash_course/chp9/p9_12/__pycache__",
-    "python_crash_course/chp9/p9_12/user.py",
     "documentary/python crash course/pg9.jpg",
     "documentary/python crash course/pg8.jpg",
     "documentary/python crash course/pg7.jpg",
