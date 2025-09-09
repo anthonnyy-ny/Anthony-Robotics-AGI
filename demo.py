@@ -1,6 +1,6 @@
 x=1
 y="hello"
 
-print(x,y)
+print(fx,y)
 
 
