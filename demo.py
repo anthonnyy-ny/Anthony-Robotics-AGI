@@ -1,8 +1,4 @@
-import pygame
-
-pygame.init()
-pygame.quit()
-
-arr=[1,2,3,4,5]
-for i in arr:
-    print(i,end=" ")
+a=int(input())
+b=int(input())
+ans=a+b
+print(f"{ans}")
