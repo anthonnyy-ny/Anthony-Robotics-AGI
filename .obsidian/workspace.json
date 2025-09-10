@@ -11,14 +11,12 @@
             "id": "14472f579d5f445d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "books/python编程从入门到实践第2版.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "python编程从入门到实践第2版"
             }
           }
         ]
@@ -172,8 +170,8 @@
   },
   "active": "14472f579d5f445d",
   "lastOpenFiles": [
-    "03.top 100 liked note.md",
     "README.md",
+    "03.top 100 liked note.md",
     "python_crash_course/python crash course note.md",
     "books/python编程从入门到实践第2版.pdf",
     "python_crash_course/chp12",
