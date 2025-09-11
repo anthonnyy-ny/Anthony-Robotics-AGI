@@ -1,2 +1,2 @@
 a,b=list(map(int,input().split()))
-print(f"{c}")
+print(f"{a+b}")
