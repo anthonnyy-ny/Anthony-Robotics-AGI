@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "00.awesome tips"
             }
+          },
+          {
+            "id": "bb14710c5b696e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,14 +185,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af07d77f2bbe61c9",
+  "active": "bb14710c5b696e3b",
   "lastOpenFiles": [
+    "00.awesome tips.md",
+    "Untitled.md",
     "pandas",
     "AI kaggle/beta.ipynb",
     "AI kaggle",
     "django/beta.py",
     "01.leetcode 75 note.md",
-    "00.awesome tips.md",
     "iris_scaler.joblib",
     "iris_rf_model.joblib",
     "demo.ipynb",
@@ -188,7 +204,6 @@
     "practice/01.python crash course note.md",
     "courses/practice/python_crash_course/chp9/p9_11/__pycache__/admin.cpython-310.pyc",
     "courses/practice/python_crash_course/chp9/p9_12/__pycache__/admin_privileges.cpython-310.pyc",
-    "courses/practice/python_crash_course/chp9/p9_12/__pycache__/user.cpython-310.pyc",
     "courses/practice/01.python crash course note.md",
     "courses/cheatsheet/pg9.jpg",
     "courses/cheatsheet/pg8.jpg",
