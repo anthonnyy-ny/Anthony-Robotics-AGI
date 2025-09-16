@@ -172,6 +172,8 @@
   },
   "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "Pipfile.lock",
+    "Pipfile",
     "01.leetcode 75 note.md",
     "04. fcc daily challenge note.md",
     "00.awesome tips.md",
@@ -190,7 +192,6 @@
     "django/01.django note.md",
     "practice/01.python crash course note.md",
     "courses/practice/python_crash_course/chp9/p9_11/__pycache__/admin.cpython-310.pyc",
-    "courses/practice/python_crash_course/chp9/p9_12/__pycache__/admin_privileges.cpython-310.pyc",
     "courses/practice/01.python crash course note.md",
     "courses/cheatsheet/pg9.jpg",
     "courses/cheatsheet/pg8.jpg",
