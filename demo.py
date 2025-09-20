@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
 
-s = input().split()
-
-print(",".join(s))
-
+jjj={'chuck':1, 'fred':42, 'jan':100}
+print(list(jjj))
