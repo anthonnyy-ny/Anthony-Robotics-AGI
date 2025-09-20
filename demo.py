@@ -5,4 +5,4 @@ print(list(jjj))
 
 arr=('dadsad',1,'dasdad')
 for i in arr:
-    print(arr)
+    print(i,)
