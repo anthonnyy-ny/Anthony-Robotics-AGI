@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "957d02ff245adf8d",
+        "id": "c21c21435fa9a77c",
         "type": "tabs",
         "children": [
           {
-            "id": "d510f90cd14f45ca",
+            "id": "555e464fc9182da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,13 +169,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "d510f90cd14f45ca",
+  "active": "555e464fc9182da8",
   "lastOpenFiles": [
+    "04. fcc daily challenge note.md",
     "01.leetcode 75 note.md",
     "00.awesome tips.md",
     "02.top interview 150 note.md",
     "03.top 100 liked note.md",
-    "04. fcc daily challenge note.md",
     "README.md",
     "firstproject/firstapp/migrations/__init__.py",
     "firstproject/firstapp/migrations",
