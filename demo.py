@@ -6,4 +6,5 @@ print(list(jjj))
 arr=('dadsad',1,'dasdad','dasdasd')
 for i in arr:
     print(i,end=" ")
+
     
