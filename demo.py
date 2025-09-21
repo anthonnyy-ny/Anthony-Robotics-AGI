@@ -1,10 +1,15 @@
 # -*- coding: utf-8 -*-
 
-jjj={'chuck':1, 'fred':42, 'jan':100}
-print(list(jjj))
+import socket
 
-arr=('dadsad',1,'dasdad','dasdasd')
-for i in arr:
-    print(i,end=" ")
+mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+mysock.connect(('data.pr4e.org', 80))
+cmd = 'GET http://data.pr4e.org/romeo.txt HTTP/1.0\r\n\r\n'.encode()
+mysock.send(cmd)
 
-    
+while True:
+    data = mysock.recv(512)
+    if len(data) < 1:
+        break
+    print(data.decode(),end='')
+mysock.close()
