@@ -35,8 +35,7 @@
               "title": "04.fcc daily challenge note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,12 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39761af6095004de",
+  "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
-    "05.Introduction to pandas.md",
     "04.fcc daily challenge note.md",
-    "README.md",
     "00.awesome tips.md",
+    "05.Introduction to pandas.md",
+    "README.md",
     "images/1758444737410.png",
     "courses/cheatsheet/pg1.jpg",
     "images",
