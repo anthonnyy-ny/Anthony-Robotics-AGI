@@ -170,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d510f90cd14f45ca",
+  "active": "af07d77f2bbe61c9",
   "lastOpenFiles": [
+    "image",
     "freecodecamp/beta.py",
     "04.fcc daily challenge note.md",
     "00.awesome tips.md",
@@ -191,7 +192,6 @@
     "firstproject/firstapp/models.py",
     "firstproject/firstapp/apps.py",
     "firstproject/firstapp/admin.py",
-    "firstproject/firstapp",
     "courses/01.python crash course note.md",
     "django/01.django note.md",
     "practice/01.python crash course note.md",
