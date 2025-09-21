@@ -4,4 +4,4 @@ print("Hello world")
 print("hello world")
 print("Hello world")
 print("hello world")
-for i in ran
+for i in range
