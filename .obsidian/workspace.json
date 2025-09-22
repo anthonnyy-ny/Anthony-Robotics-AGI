@@ -49,8 +49,7 @@
               "title": "04.fcc daily challenge note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42301df6c6b8ee4b",
+  "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
-    "00.awesome tips.md",
     "07.scientific computing to python.md",
     "04.fcc daily challenge note.md",
+    "00.awesome tips.md",
     "06.Leetcode problem.md",
     "05.Introduction to pandas.md",
     "README.md",
