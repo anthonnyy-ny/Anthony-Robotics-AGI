@@ -17,7 +17,7 @@ def digits_or_letters(s:str)->str:
         return "tie"
 
 digits_or_letters("abc123")
-digits_or_letters("abc123")
-digits_or_letters("abc123")
+digits_or_letters("a1b2c3d")
+digits_or_letters(v)
 digits_or_letters("abc123")
 digits_or_letters("abc123")
