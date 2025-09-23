@@ -5,7 +5,7 @@ def is_mirror(s1: str, s2: str) -> bool:
     for ch in s1:
         if ch.isalpha():
             f1 += ch
-
+    print(f1)
     f2 = ""
     for ch in s2:
         if ch.isalpha():
