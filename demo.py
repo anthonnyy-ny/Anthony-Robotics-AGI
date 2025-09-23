@@ -11,7 +11,8 @@ def is_mirror(s1: str, s2: str) -> bool:
     for ch in s2:
         if ch.isalpha():
             f2 += ch
-    print()
+    print(f2)
+    
     return f1 == f2[::-1]
 
 # Ê¾Àı²âÊÔ
