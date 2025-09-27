@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.fcc daily challenge note.md",
+                "file": "00.awesome tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.fcc daily challenge note"
+              "title": "00.awesome tips"
             }
           }
         ]
@@ -172,23 +172,23 @@
   },
   "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "01.leetcode 75 note.md",
+    "02.top interview 150 note.md",
+    "03.top 100 liked note.md",
     "05.Introduction to pandas.md",
+    "04.fcc daily challenge note.md",
     "06.Leetcode problem.md",
     "07.scientific computing with python.md",
     "00.awesome tips.md",
-    "04.fcc daily challenge note.md",
-    "01.leetcode 75 note.md",
     "README.md",
     "images/1758444737410.png",
     "courses/cheatsheet/pg1.jpg",
     "images",
     "freecodecamp/beta.py",
-    "03.top 100 liked note.md",
     "freecodecamp/04. fcc daily challenge note.md",
     "courses/04. fcc daily challenge note.md",
     "freecodecamp",
     "04. fcc daily challenge note.md",
-    "02.top interview 150 note.md",
     "firstproject/firstapp/migrations/__init__.py",
     "firstproject/firstapp/migrations",
     "firstproject/firstapp/__init__.py",
