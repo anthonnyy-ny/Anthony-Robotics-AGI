@@ -35,7 +35,8 @@
               "title": "00.awesome tips"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d510f90cd14f45ca",
+  "active": "14918d7ddb8c9afe",
   "lastOpenFiles": [
-    "00.awesome tips.md",
     "07.scientific computing with python.md",
+    "00.awesome tips.md",
     "06.Leetcode problem.md",
     "01.leetcode 75 note.md",
     "04.fcc daily challenge note.md",
