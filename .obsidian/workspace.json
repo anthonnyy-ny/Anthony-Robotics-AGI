@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00.awesome tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "00.awesome tips"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "README.md",
     "07.scientific computing with python.md",
     "06.Leetcode problem.md",
     "05.Introduction to pandas.md",
@@ -180,7 +181,6 @@
     "02.top interview 150 note.md",
     "01.leetcode 75 note.md",
     "00.awesome tips.md",
-    "README.md",
     "images/1758444737410.png",
     "courses/cheatsheet/pg1.jpg",
     "images",
