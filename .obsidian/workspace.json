@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "07.scientific computing with python"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "696e21372d1b4451",
+        "type": "tabs",
+        "children": [
           {
             "id": "14918d7ddb8c9afe",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "00.awesome tips"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14918d7ddb8c9afe",
+  "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
-    "07.scientific computing with python.md",
     "00.awesome tips.md",
+    "07.scientific computing with python.md",
     "06.Leetcode problem.md",
     "01.leetcode 75 note.md",
     "04.fcc daily challenge note.md",
