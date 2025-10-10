@@ -193,6 +193,7 @@
   "active": "af07d77f2bbe61c9",
   "lastOpenFiles": [
     "Untitled",
+    "AI",
     "burpsuite",
     "07.scientific computing with python.md",
     "00.awesome tips.md",
@@ -216,7 +217,6 @@
     "firstproject/firstapp/__init__.py",
     "firstproject/firstapp/views.py",
     "firstproject/firstapp/tests.py",
-    "firstproject/firstapp/models.py",
     "courses/01.python crash course note.md",
     "django/01.django note.md",
     "practice/01.python crash course note.md",
