@@ -190,13 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af07d77f2bbe61c9",
+  "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "00.awesome tips.md",
+    "07.scientific computing with python.md",
     "03.CyberSecurity",
     "02.AI",
     "burpsuite",
-    "07.scientific computing with python.md",
-    "00.awesome tips.md",
     "06.Leetcode problem.md",
     "01.leetcode 75 note.md",
     "04.fcc daily challenge note.md",
@@ -216,7 +216,6 @@
     "firstproject/firstapp/migrations",
     "firstproject/firstapp/__init__.py",
     "firstproject/firstapp/views.py",
-    "firstproject/firstapp/tests.py",
     "01.Programming Languages/01.python crash course note.md",
     "django/01.django note.md",
     "practice/01.python crash course note.md",
