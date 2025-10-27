@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.fcc daily challenge note.md",
+                "file": "00.awesome tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.fcc daily challenge note"
+              "title": "00.awesome tips"
             }
           }
         ]
@@ -170,8 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af07d77f2bbe61c9",
+  "active": "14918d7ddb8c9afe",
   "lastOpenFiles": [
+    "03.top 100 liked note.md",
+    "02.top interview 150 note.md",
+    "01.leetcode 75 note.md",
+    "04.fcc daily challenge note.md",
     "05.Introduction to pandas.md",
     "06.leetcode problem.md",
     "07.scientific computing with python.md",
@@ -181,10 +185,6 @@
     "02.AI",
     "burpsuite",
     "06.Leetcode problem.md",
-    "01.leetcode 75 note.md",
-    "04.fcc daily challenge note.md",
-    "03.top 100 liked note.md",
-    "02.top interview 150 note.md",
     "images/1758444737410.png",
     "01.Python/cheatsheet/pg1.jpg",
     "images",
