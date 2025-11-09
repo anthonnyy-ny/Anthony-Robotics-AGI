@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.awesome tips.md",
+                "file": "06.scientific computing with python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.awesome tips"
+              "title": "06.scientific computing with python"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "14918d7ddb8c9afe",
   "lastOpenFiles": [
-    "06.scientific computing with python.md",
     "00.awesome tips.md",
+    "06.scientific computing with python.md",
     "05.fcc daily challenge note.md",
     "04.leetcode problem.md",
     "05.Introduction to pandas.md",
