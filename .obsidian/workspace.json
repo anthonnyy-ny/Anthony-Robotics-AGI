@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.fcc daily challenge note.md",
+                "file": "00.awesome tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.fcc daily challenge note"
+              "title": "00.awesome tips"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.fcc daily challenge note.md",
+                "file": "00.awesome tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05.fcc daily challenge note"
+              "title": "Backlinks for 00.awesome tips"
             }
           },
           {
@@ -172,11 +172,11 @@
   },
   "active": "8c767f4a1e83d81f",
   "lastOpenFiles": [
+    "05.fcc daily challenge note.md",
     "06.scientific computing with python.md",
     "07.data analysis with python.md",
     "Untitled.md",
     "README.md",
-    "05.fcc daily challenge note.md",
     "00.awesome tips.md",
     "images/1758444737410.png",
     "04.leetcode problem.md",
