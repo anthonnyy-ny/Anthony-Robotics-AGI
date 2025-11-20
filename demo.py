@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#1111
 def is_mirror(s1: str, s2: str) -> bool:
     f1 = ""
     for ch in s1:
@@ -15,7 +15,7 @@ def is_mirror(s1: str, s2: str) -> bool:
     
     return f1 == f2[::-1]
 
-# Ê¾Àý²âÊÔ
+# Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 print(is_mirror("abc", "cba"))              # True
 print(is_mirror("Abc!", "cba"))             # False
 print(is_mirror("A man, a plan!", "nalp a ,nam A"))  # True
