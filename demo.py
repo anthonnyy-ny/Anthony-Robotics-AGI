@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#1111
+
 def is_mirror(s1: str, s2: str) -> bool:
     f1 = ""
     for ch in s1:
