@@ -15,7 +15,7 @@ def is_mirror(s1: str, s2: str) -> bool:
     
     return f1 == f2[::-1]
 
-# ʾ������
+# ???????
 print(is_mirror("abc", "cba"))              # True
 print(is_mirror("Abc!", "cba"))             # False
 print(is_mirror("A man, a plan!", "nalp a ,nam A"))  # True
