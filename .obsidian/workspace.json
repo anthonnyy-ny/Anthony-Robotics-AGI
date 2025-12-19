@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.data analysis with python.md",
+                "file": "04.leetcode problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.data analysis with python"
+              "title": "04.leetcode problem"
             }
           }
         ],
@@ -189,9 +189,10 @@
   },
   "active": "97319772e66a174b",
   "lastOpenFiles": [
-    "00.awesome tips.md",
-    "07.data analysis with python.md",
+    "03.top 100 liked note.md",
     "04.leetcode problem.md",
+    "07.data analysis with python.md",
+    "00.awesome tips.md",
     "05.fcc daily challenge note.md",
     "06.scientific computing with python.md",
     "README.md",
@@ -199,7 +200,6 @@
     "Untitled.md",
     "images/1758444737410.png",
     "05.Introduction to pandas.md",
-    "03.top 100 liked note.md",
     "01.leetcode 75 note.md",
     "02.top interview 150 note.md",
     "03.CyberSecurity",
