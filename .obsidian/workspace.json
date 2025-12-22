@@ -37,7 +37,8 @@
               "title": "04.leetcode problem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "810d1d70b59e8e5e",
+  "active": "97319772e66a174b",
   "lastOpenFiles": [
-    "04.leetcode problem.md",
     "00.awesome tips.md",
+    "04.leetcode problem.md",
     "01.leetcode 75 note.md",
     "03.top 100 liked note.md",
     "05.fcc daily challenge note.md",
