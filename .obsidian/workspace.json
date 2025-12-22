@@ -29,16 +29,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.leetcode 75 note.md",
+                "file": "04.leetcode problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.leetcode 75 note"
+              "title": "04.leetcode problem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,18 +186,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97319772e66a174b",
+  "active": "810d1d70b59e8e5e",
   "lastOpenFiles": [
-    "03.top 100 liked note.md",
     "04.leetcode problem.md",
     "00.awesome tips.md",
+    "01.leetcode 75 note.md",
+    "03.top 100 liked note.md",
     "05.fcc daily challenge note.md",
     "06.scientific computing with python.md",
     "07.data analysis with python.md",
     "images/1758444737410.png",
     "README.md",
     "02.top interview 150 note.md",
-    "01.leetcode 75 note.md",
     "01.Python/books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf",
     "Untitled.md",
     "05.Introduction to pandas.md",
