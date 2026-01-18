@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08..md",
+                "file": "08.responsive web design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08."
+              "title": "08.responsive web design"
             }
           }
         ],
@@ -204,7 +204,7 @@
   "active": "fed1584ed3677cab",
   "lastOpenFiles": [
     "04.leetcode problem.md",
-    "08..md",
+    "08.responsive web design.md",
     "00.awesome tips.md",
     "07.data analysis with python.md",
     "06.scientific computing with python.md",
