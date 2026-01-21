@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "810d1d70b59e8e5e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.awesome tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "00.awesome tips"
-            }
-          },
-          {
             "id": "ddf62ce2800aa430",
             "type": "leaf",
             "state": {
@@ -186,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "810d1d70b59e8e5e",
+  "active": "ddf62ce2800aa430",
   "lastOpenFiles": [
-    "08.data analysis with python.md",
     "00.awesome tips.md",
+    "08.data analysis with python.md",
     "05.leetcode quest.md",
     "04.leetcode problem.md",
     "07.scientific computing with python.md",
