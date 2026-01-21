@@ -170,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddf62ce2800aa430",
+  "active": "af07d77f2bbe61c9",
   "lastOpenFiles": [
+    "02.PLC/demo02_20251225/demo2.~u",
     "07.scientific computing with python.md",
     "08.data analysis with python.md",
     "09.PLC note.md",
@@ -216,7 +217,6 @@
     "courses/python_crash_course/python crash course note.md",
     "books/python_crash_course/python crash course note.md",
     "python_crash_course/python crash course note.md",
-    "100.README.md",
-    "top interview 150 note.md"
+    "100.README.md"
   ]
 }
