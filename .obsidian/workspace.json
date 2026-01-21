@@ -170,9 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af07d77f2bbe61c9",
+  "active": "ddf62ce2800aa430",
   "lastOpenFiles": [
+    "07.scientific computing with python.md",
     "08.data analysis with python.md",
+    "09.PLC note.md",
     "02.PLC/demo03_20251225/demo3-AllUsers.opt",
     "02.PLC/demo03_20251225/demo3_project.precompilecache",
     "02.PLC/demo03_20251225/demo3.project",
@@ -186,7 +188,6 @@
     "00.awesome tips.md",
     "05.leetcode quest.md",
     "04.leetcode problem.md",
-    "07.scientific computing with python.md",
     "README.md",
     "06.fcc daily challenge note.md",
     "08.responsive web design certification.md",
