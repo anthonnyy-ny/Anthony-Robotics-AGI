@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.data analysis with python.md",
+                "file": "PLC note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08.data analysis with python"
+              "title": "PLC note"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "af07d77f2bbe61c9",
   "lastOpenFiles": [
+    "08.data analysis with python.md",
     "02.PLC/demo03_20251225/demo3-AllUsers.opt",
     "02.PLC/demo03_20251225/demo3_project.precompilecache",
     "02.PLC/demo03_20251225/demo3.project",
@@ -182,9 +183,7 @@
     "02.PLC/demo02_20251225/demo2_autosave.precompilecache",
     "02.PLC/demo02_20251225/demo2-yaoho-ASUSVIVO2023.opt",
     "02.PLC/demo02_20251225/demo2.Device.Sim.Device.Application.ec37939d-f2b4-4008-9d92-887ef908a2d2.simulation.bootinfo_guids",
-    "02.PLC/demo02_20251225/demo2-AllUsers.opt",
     "00.awesome tips.md",
-    "08.data analysis with python.md",
     "05.leetcode quest.md",
     "04.leetcode problem.md",
     "07.scientific computing with python.md",
