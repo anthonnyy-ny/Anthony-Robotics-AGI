@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09.PLC note.md",
+                "file": "07.scientific computing with python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09.PLC note"
+              "title": "07.scientific computing with python"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "ddf62ce2800aa430",
   "lastOpenFiles": [
-    "07.scientific computing with python.md",
     "08.data analysis with python.md",
     "09.PLC note.md",
+    "07.scientific computing with python.md",
     "02.PLC/demo01_20251225/demo1.~u",
     "02.PLC/demo02_20251225/demo2.~u",
     "02.PLC/demo03_20251225/demo3-AllUsers.opt",
